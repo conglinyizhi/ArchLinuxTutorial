@@ -95,7 +95,7 @@ sudo pacman -S sshfs # 文件系统挂载，Dolphin完美集成
 
 ## 办公套件
 
-主要两个选择是 [LibreOffice](https://wiki.archlinux.org/index.php/LibreOffice)以及[onlyoffice](<https://aur.archlinux.org/packages/onlyoffice-bin/)>)<sup>AUR</sup>。 我们建议你使用开源的 LibreOffice 以及 onlyoffice，而不是专有软件 WPS,前两者其目前的安装已经非常简单。
+主要两个选择是 [LibreOffice](https://wiki.archlinux.org/index.php/LibreOffice)以及[onlyoffice](<https://aur.archlinux.org/packages/onlyoffice-bin>)<sup>AUR</sup>。 我们建议你使用开源的 LibreOffice 以及 onlyoffice，而不是专有软件 WPS,前两者其目前的安装已经非常简单。
 
 ```bash
 sudo pacman -S libreoffice-still   #稳定版
